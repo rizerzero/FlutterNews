@@ -1,16 +1,6 @@
-# fresh_news
+# Flutter news 
+To user this code you'll need to get an api key on https://newsapi.org/register 
+then configure the api in utils/constants.dat "yourApiKey" 
 
-A new Flutter project.
+You're ready to go, with the build.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
